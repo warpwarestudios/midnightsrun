@@ -2,29 +2,24 @@ Initialize engine version: 4.5.4f1 (e036f44c54c9)
 GfxDevice: creating device client; threaded=1
 Direct3D:
     Version:  Direct3D 11.0 [level 11.0]
-    Renderer: NVIDIA GeForce GTX 660   (ID=0x11c0)
+    Renderer: NVIDIA GeForce GTX 550 Ti (ID=0x1244)
     Vendor:   NVIDIA
-    VRAM:     1989 MB
+    VRAM:     977 MB
 Begin MonoManager ReloadAssembly
-Platform assembly: C:\Users\Tsunayoshi\Desktop\MidnightsRun\midnightsrun\Midnight's Run_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading C:\Users\Tsunayoshi\Desktop\MidnightsRun\midnightsrun\Midnight's Run_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: C:\Users\Tsunayoshi\Desktop\MidnightsRun\midnightsrun\Midnight's Run_Data\Managed\Assembly-CSharp.dll (this message is harmless)
-Loading C:\Users\Tsunayoshi\Desktop\MidnightsRun\midnightsrun\Midnight's Run_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-- Completed reload, in  0.062 seconds
-desktop: 1920x1080 60Hz; virtual: 3840x1080 at 0,0
+Platform assembly: C:\Users\Kenneth\Documents\Unity\midnightsrun\midnightsrun\Midnight's Run_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Kenneth\Documents\Unity\midnightsrun\midnightsrun\Midnight's Run_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Kenneth\Documents\Unity\midnightsrun\midnightsrun\Midnight's Run_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Kenneth\Documents\Unity\midnightsrun\midnightsrun\Midnight's Run_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+- Completed reload, in  0.085 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
-Profiler is only supported with Pro License
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/Runtime/Profiler/ProfilerConnection.cpp Line: 218)
-
-Platform assembly: C:\Users\Tsunayoshi\Desktop\MidnightsRun\midnightsrun\Midnight's Run_Data\Managed\System.dll (this message is harmless)
-UnloadTime: 3.399710 ms
-System memory in use before: 10.3 MB.
+Platform assembly: C:\Users\Kenneth\Documents\Unity\midnightsrun\midnightsrun\Midnight's Run_Data\Managed\System.dll (this message is harmless)
+UnloadTime: 3.801111 ms
+System memory in use before: 10.0 MB.
 Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
-System memory in use after: 10.2 MB.
+System memory in use after: 9.9 MB.
 
-Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 211.
-Total: 0.818836 ms (FindLiveObjects: 0.023754 ms CreateObjectMapping: 0.016418 ms MarkObjects: 0.105498 ms  DeleteObjects: 0.026199 ms)
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 200.
+Total: 0.843333 ms (FindLiveObjects: 0.009288 ms CreateObjectMapping: 0.013200 ms MarkObjects: 0.111955 ms  DeleteObjects: 0.027866 ms)
 
-Waiting for finish
