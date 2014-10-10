@@ -4,11 +4,7 @@ using System.Collections;
 public class CollideMovement : MonoBehaviour {
 	
 	public float velocity = 0.01f;
-	
 
-	
-
-	
 	public Transform sightStart;
 	public Transform sightEnd;
 	
