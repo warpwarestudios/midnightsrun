@@ -28,11 +28,6 @@ public class PlayerController: MonoBehaviour {
 	// FixedUpdate updates at regular intervals
 	void FixedUpdate()
 	{
-		// if grounded = true, on ground
-		grounded = Physics2D.OverlapCircle (groundCheck.position, groundRadius, whatIsGround);
-		animator.SetBool ("Ground", grounded);
-
-		animator.SetFloat ("vSpeed", rigidbody2D.velocity.y);
 
 		// enables sprite movement
 		float move = Input.GetAxis ("Horizontal");
@@ -50,6 +45,11 @@ public class PlayerController: MonoBehaviour {
 	// Update updates at irregular intervals for maximum accuracy
 	void Update()
 	{
+		// if grounded = true, on ground
+		grounded = Physics2D.OverlapCircle (groundCheck.position, groundRadius, whatIsGround);
+		animator.SetBool ("Ground", grounded);
+		animator.SetFloat ("vSpeed", rigidbody2D.velocity.y);
+
 		// standing on ground and space is press, jump
 		if (grounded && Input.GetKeyDown (KeyCode.Space)) 
 		{
