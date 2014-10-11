@@ -1,0 +1,481 @@
+fileFormatVersion: 2
+guid: 0a8c4bfccbe1d9f41abf6663a2020a75
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: MidnightWalk_0
+    21300002: Idle_3
+    21300004: Midnight_2
+    21300006: Midnight_3
+    21300008: MidnightWalk_4
+    21300010: Idle_2
+    21300012: Midnight_6
+    21300014: Midnight_7
+    21300016: MidnightWalk_8
+    21300018: Idle_1
+    21300020: Midnight_10
+    21300022: Midnight_11
+    21300024: MidnightWalk_12
+    21300026: Midnight_14
+    21300028: Midnight_15
+    21300030: MidnightWalk_16
+    21300032: Midnight_18
+    21300034: Midnight_19
+    21300036: MidnightWalk_20
+    21300038: Midnight_21
+    21300040: Midnight_22
+    21300042: MidnightWalk_23
+    21300044: Midnight_24
+    21300046: Midnight_25
+    21300048: MidnightWalk_26
+    21300050: Midnight_27
+    21300052: Midnight_28
+    21300054: MidnightWalk_29
+    21300056: Midnight_30
+    21300058: Midnight_31
+    21300060: MidnightWalk_32
+    21300062: Midnight_33
+    21300064: Midnight_34
+    21300066: MidnightWalk_35
+    21300068: Midnight_36
+    21300070: Midnight_37
+    21300072: MidnightWalk_38
+    21300074: Midnight_39
+    21300076: Midnight_40
+    21300078: Midnight_41
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 1
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: 5
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 550
+  alphaIsTransparency: 0
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -3
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: MidnightWalk_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 2406
+        width: 351
+        height: 179
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Midnight_2
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 2403
+        width: 371
+        height: 171
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Midnight_3
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 2408
+        width: 362
+        height: 143
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MidnightWalk_4
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 2210
+        width: 368
+        height: 179
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Idle_2
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 2199
+        width: 340
+        height: 183
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Midnight_6
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 2206
+        width: 361
+        height: 165
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Midnight_7
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 2207
+        width: 362
+        height: 140
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MidnightWalk_8
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 2009
+        width: 349
+        height: 176
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Idle_1
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 2003
+        width: 342
+        height: 177
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Midnight_10
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 2015
+        width: 359
+        height: 165
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Midnight_11
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 2007
+        width: 368
+        height: 135
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MidnightWalk_12
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1807
+        width: 340
+        height: 175
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Midnight_14
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 1809
+        width: 340
+        height: 161
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Midnight_15
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 1810
+        width: 363
+        height: 136
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MidnightWalk_16
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1611
+        width: 344
+        height: 168
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Midnight_18
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 1609
+        width: 335
+        height: 163
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Midnight_19
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 1611
+        width: 358
+        height: 139
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MidnightWalk_20
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1410
+        width: 354
+        height: 161
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Midnight_21
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 1407
+        width: 355
+        height: 164
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Midnight_22
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 1411
+        width: 351
+        height: 143
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MidnightWalk_23
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1210
+        width: 362
+        height: 155
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Midnight_24
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 1209
+        width: 356
+        height: 185
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Midnight_25
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 1214
+        width: 323
+        height: 140
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MidnightWalk_26
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1013
+        width: 357
+        height: 163
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Midnight_27
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 1009
+        width: 375
+        height: 176
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Midnight_28
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 1010
+        width: 318
+        height: 136
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MidnightWalk_29
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 812
+        width: 360
+        height: 166
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Midnight_30
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 812
+        width: 364
+        height: 146
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Midnight_31
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 813
+        width: 326
+        height: 135
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MidnightWalk_32
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 613
+        width: 362
+        height: 169
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Midnight_33
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 614
+        width: 347
+        height: 148
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Midnight_34
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 614
+        width: 331
+        height: 141
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MidnightWalk_35
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 414
+        width: 354
+        height: 173
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Midnight_36
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 418
+        width: 329
+        height: 148
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Midnight_37
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 414
+        width: 334
+        height: 148
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MidnightWalk_38
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 218
+        width: 354
+        height: 177
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Midnight_39
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 214
+        width: 352
+        height: 156
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Midnight_40
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 213
+        width: 330
+        height: 147
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Midnight_41
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 13
+        width: 381
+        height: 155
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
