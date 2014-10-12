@@ -1,16 +1,16 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class HeathBarScript : MonoBehaviour {
-	
-	public UIProgressBar lives;
-	public float currentHealth;
-	private float fullHealth;
-	private float damage;
+public class HealthBarScript : MonoBehaviour {
 
+	public UIProgressBar lives;
+	public float currentHealth = 1;
+	private float fullHealth = 1;
+	private float damage;
+	
 	// Use this for initialization
 	void Start () {
-
+		
 		currentHealth = fullHealth;
 	}
 	
@@ -19,9 +19,10 @@ public class HeathBarScript : MonoBehaviour {
 		lives = gameObject.GetComponent<UIProgressBar> ();
 		lives.value = currentHealth;
 	}
-
-	void TakeDamage ()
+	
+	void TakeDamage (float damage)
 	{
+		if(currentHealth > 0)
 		currentHealth -= damage;
 	}
 }
