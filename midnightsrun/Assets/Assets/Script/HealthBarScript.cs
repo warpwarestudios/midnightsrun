@@ -4,8 +4,10 @@ using System.Collections;
 public class HealthBarScript : MonoBehaviour {
 
 	public UIProgressBar lives;
-	public float currentHealth = 1;
-	private float fullHealth = 1;
+	private float currentHealth = 1f;
+	public GameObject player;
+	public GameObject gameOver;
+	private float fullHealth = 1f;
 	private float damage;
 	
 	// Use this for initialization
@@ -22,7 +24,12 @@ public class HealthBarScript : MonoBehaviour {
 	
 	void TakeDamage (float damage)
 	{
-		if(currentHealth > 0)
-		currentHealth -= damage;
+		if (currentHealth > 0)
+			currentHealth -= damage;
+		else 
+		{
+			gameOver.SetActive(true);
+			Destroy(player);
+		}
 	}
 }
