@@ -26,35 +26,51 @@ public class PlayerController: MonoBehaviour {
 	}
 	
 	// FixedUpdate updates at regular intervals
+	// For physics calculations
 	void FixedUpdate()
 	{
 
-		// enables sprite movement
-		float move = Input.GetAxis ("Horizontal");
-		animator.SetFloat ("Speed", Mathf.Abs (move));
-		rigidbody2D.velocity = new Vector2 (move * maxSpeed,0);
-
-		//Flips Sprite
-		if (move > 0 && !facingRight) 
-			Flip ();
-		else if (move < 0 && facingRight) 
-			Flip ();
+		// if grounded = true, on ground
+		grounded = Physics2D.OverlapCircle (groundCheck.position, groundRadius, whatIsGround);
+		animator.SetBool ("Ground", grounded);
+		animator.SetFloat ("vSpeed", rigidbody2D.velocity.y);
 		
 	}
 
 	// Update updates at irregular intervals for maximum accuracy
 	void Update()
 	{
-		// if grounded = true, on ground
-		grounded = Physics2D.OverlapCircle (groundCheck.position, groundRadius, whatIsGround);
-		animator.SetBool ("Ground", grounded);
-		animator.SetFloat ("vSpeed", rigidbody2D.velocity.y);
+
+		// enables sprite movement
+		float move = Input.GetAxis ("Horizontal");
+		animator.SetFloat ("Speed", Mathf.Abs (move));
+		rigidbody2D.velocity= new Vector2 (move * maxSpeed,0);
+		
+		//Flips Sprite
+		if (move > 0 && !facingRight) 
+			Flip ();
+		else if (move < 0 && facingRight) 
+			Flip ();
+
 
 		// standing on ground and space is press, jump
-		if (grounded && Input.GetKeyDown (KeyCode.Space)) 
+		if (grounded && Input.GetKeyDown (KeyCode.Space) && Input.GetAxis("Horizontal") > 0) 
 		{
 			animator.SetBool ("Ground", false);
-			rigidbody2D.AddForce(new Vector2(0,jumpForce));
+			if(facingRight)
+				rigidbody2D.AddForce(new Vector2(jumpForce,jumpForce));
+			else
+				rigidbody2D.AddForce(new Vector2(-1 * jumpForce,jumpForce));
+			
+		}
+		else if (grounded && Input.GetKeyDown (KeyCode.Space)) 
+		{
+			animator.SetBool ("Ground", false);
+			if(facingRight)
+				rigidbody2D.AddForce(new Vector2(0,jumpForce));
+			else
+				rigidbody2D.AddForce(new Vector2(0,jumpForce));
+			
 		}
 	}
 	
