@@ -1,4 +1,4 @@
-﻿using UnityEngine;
+using UnityEngine;
 using System.Collections;
 
 public class EnemyLogic : MonoBehaviour {
@@ -8,6 +8,12 @@ public class EnemyLogic : MonoBehaviour {
 	public GameObject exclamation;
 	public bool staticPatrol;
 	private bool facingRight;
+
+	public float aggroMoveSpeed = 4f;
+	public float aggroMaxDist = 10f;
+	public float aggroMinDist  = 5f;
+	public Transform player;
+
 
 
 
@@ -35,6 +41,7 @@ public class EnemyLogic : MonoBehaviour {
 		if (spotted == true) 
 		{
 			exclamation.SetActive (true);
+				
 		} 
 		else 
 		{
