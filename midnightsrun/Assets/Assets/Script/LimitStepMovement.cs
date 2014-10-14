@@ -16,6 +16,7 @@ public class LimitStepMovement : MonoBehaviour {
 		
 		public bool verticalMovement;
 		
+		public bool stepping;
 
 		
 		// Use this for initialization
@@ -28,9 +29,9 @@ public class LimitStepMovement : MonoBehaviour {
 		// Update is called once per frame
 		void Update ()
 		{
+			if (stepping) {
 						//tells it to walk max amount of steps
-						if (verticalMovement) 
-						{ //vertical
+						if (verticalMovement) { //vertical
 								if (transform.position.y >= yPos + maxAmountSteps_Time) {
 										max = true;
 								} else if (transform.position.y <= yPos) {
@@ -44,38 +45,28 @@ public class LimitStepMovement : MonoBehaviour {
 								}
 						}
 				
-						if (verticalMovement) 
-						{
-							if (!max) 
-							{
-								transform.position = new Vector2 (transform.position.x, transform.position.y + velocity);
-							} 
-							else 
-							{
-								transform.position = new Vector2 (transform.position.x, transform.position.y - velocity);
-							}
-						} 
-						else 
-						{ //horizontal
+						if (verticalMovement) {
+								if (!max) {
+										transform.position = new Vector2 (transform.position.x, transform.position.y + velocity);
+								} else {
+										transform.position = new Vector2 (transform.position.x, transform.position.y - velocity);
+								}
+						} else { //horizontal
 								
-							if (!max) 
-							{
-								transform.position = new Vector2 (transform.position.x + velocity, transform.position.y);
-								if (isFlipped)
-								{
-									transform.localScale = new Vector2 (transform.localScale.x * -1, transform.localScale.y);
-									isFlipped = false;
+								if (!max) {
+										transform.position = new Vector2 (transform.position.x + velocity, transform.position.y);
+										if (isFlipped) {
+												transform.localScale = new Vector2 (transform.localScale.x * -1, transform.localScale.y);
+												isFlipped = false;
+										}
+								} else {
+										transform.position = new Vector2 (transform.position.x - velocity, transform.position.y);
+										if (!isFlipped) {
+												transform.localScale = new Vector2 (transform.localScale.x * -1, transform.localScale.y);
+												isFlipped = true;
+										}
 								}
-							} 
-							else 
-							{
-								transform.position = new Vector2 (transform.position.x - velocity, transform.position.y);
-								if (!isFlipped)
-								{
-									transform.localScale = new Vector2 (transform.localScale.x * -1, transform.localScale.y);
-									isFlipped = true;
-								}
-							}
 						}
+				}
 		}
 }
