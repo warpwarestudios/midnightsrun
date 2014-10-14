@@ -9,7 +9,8 @@ public class HealthBarScript : MonoBehaviour {
 	public GameObject gameOver;
 	private float fullHealth = 1f;
 	private float damage;
-	
+	public bool alive;
+
 	// Use this for initialization
 	void Start () {
 		
@@ -28,8 +29,10 @@ public class HealthBarScript : MonoBehaviour {
 			currentHealth -= damage;
 		else 
 		{
-			gameOver.SetActive(true);
+
+			alive = false;
 			Destroy(player);
+			gameOver.SetActive(true);
 		}
 	}
 }

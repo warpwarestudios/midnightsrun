@@ -6,13 +6,11 @@ public class EnemyLogic : MonoBehaviour {
 	public Transform sightStart, sightEnd;
 	private bool spotted = false;
 	public GameObject exclamation;
+	public GameObject player;
 	public bool staticPatrol;
 	private bool facingRight;
-
-	public float aggroMoveSpeed = 4f;
-	public float aggroMaxDist = 10f;
-	public float aggroMinDist  = 5f;
-	public Transform player;
+	private float playerPosX;
+	public float aggroVelocity = 2; 
 
 
 
@@ -28,6 +26,10 @@ public class EnemyLogic : MonoBehaviour {
 	void Update () {
 		Raycasting();
 		Behaviours();
+
+		playerPosX = player.transform.position.x;
+
+				
 	}
 
 	void Raycasting()
@@ -41,11 +43,14 @@ public class EnemyLogic : MonoBehaviour {
 		if (spotted == true) 
 		{
 			exclamation.SetActive (true);
+	
 				
 		} 
 		else 
 		{
 			exclamation.SetActive (false);
+
+
 		}
 	}
 
