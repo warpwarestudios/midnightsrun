@@ -7,29 +7,30 @@ public class EnemyLogic : MonoBehaviour {
 	private bool spotted = false;
 	public GameObject exclamation;
 	public GameObject player;
+	private float enemyPosX;
 	public bool staticPatrol;
 	private bool facingRight;
 	private float playerPosX;
-	public float aggroVelocity = 2; 
+	public float moveSpeed = 2; 
+	public float chaseSpeed = 3.5f;
+	private float rand;
+	private float timer;
 
 
 
 
 	void Start ()
 	{
-		if (staticPatrol) 
-		{
-			InvokeRepeating ("Patrol", 0f, Random.Range (2f, 6f));
-		}
+		rand = Random.Range (2f, 6f);
+		enemyPosX = this.transform.position.x;
 	}
+
 	// Update is called once per frame
 	void Update () {
 		Raycasting();
 		Behaviours();
 
 		playerPosX = player.transform.position.x;
-
-				
 	}
 
 	void Raycasting()
@@ -40,29 +41,57 @@ public class EnemyLogic : MonoBehaviour {
 
 	void Behaviours()
 	{
-		if (spotted == true) 
+		if (!spotted) 
+		{
+			timer += Time.deltaTime;
+			if (timer >= rand) 
+			{
+				Flip ();
+				rand = Random.Range (2f, 6f);
+				timer = 0f;
+			}
+		}
+		
+		if (!spotted) 
+		{
+
+			if (facingRight)
+			{
+				rigidbody2D.velocity= new Vector2 (-moveSpeed,0);
+			}
+			else if (!facingRight)
+			{
+				rigidbody2D.velocity= new Vector2 (moveSpeed,0);
+			}
+
+		}
+
+		if (spotted) 
 		{
 			exclamation.SetActive (true);
-	
+			// move towards
+			if (facingRight)
+			{
+				rigidbody2D.velocity= new Vector2 (-chaseSpeed,0);
+			}
+			else if (!facingRight)
+			{
+				rigidbody2D.velocity= new Vector2 (chaseSpeed,0);
+			}
 				
 		} 
 		else 
 		{
 			exclamation.SetActive (false);
-
-
 		}
 	}
 
-	void Patrol()
+	void Flip()
 	{
-				facingRight = !facingRight;
-
-				if (facingRight == true) {
-						transform.eulerAngles = new Vector2 (0, 0);
-				} else {
-						transform.eulerAngles = new Vector2 (0, 180);
-				}
+		facingRight = !facingRight;
+		Vector2 scale = transform.localScale;
+		scale.x *= -1;
+		transform.localScale = scale;
 	}
 
 
