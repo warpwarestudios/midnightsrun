@@ -9,7 +9,6 @@ public class EnemyLogic : MonoBehaviour {
 	public GameObject player;
 	public bool staticPatrol;
 	private bool facingRight;
-	private float playerPosX;
 	public float moveSpeed = 2f; 
 	public float chaseSpeed = 3.5f;
 	private float rand;
@@ -26,9 +25,7 @@ public class EnemyLogic : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 		Raycasting();
-		Behaviours();
-
-		playerPosX = player.transform.position.x;
+		Behaviours();	
 	}
 
 	void Raycasting()
