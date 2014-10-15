@@ -1,0 +1,355 @@
+fileFormatVersion: 2
+guid: 2e2bbd6648c6a094d891d624da9dea15
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Modern Tiles_0
+    21300002: Modern Tiles_2
+    21300004: Modern Tiles_3
+    21300006: Modern Tiles_4
+    21300008: Modern Tiles_5
+    21300010: Modern Tiles_6
+    21300012: Modern Tiles_7
+    21300014: Modern Tiles_8
+    21300016: Modern Tiles_9
+    21300018: Modern Tiles_10
+    21300020: Modern Tiles_11
+    21300022: Modern Tiles_12
+    21300024: Modern Tiles_13
+    21300026: Modern Tiles_14
+    21300028: Modern Tiles_15
+    21300030: Modern Tiles_16
+    21300032: Modern Tiles_18
+    21300034: Modern Tiles_19
+    21300036: Modern Tiles_20
+    21300038: Modern Tiles_21
+    21300040: Modern Tiles_21
+    21300042: Modern Tiles_21
+    21300044: Modern Tiles_22
+    21300046: Modern Tiles_23
+    21300048: Modern Tiles_24
+    21300050: Modern Tiles_25
+    21300052: Modern Tiles_26
+    21300054: Modern Tiles_27
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Modern Tiles_0
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 352
+        width: 62
+        height: 151
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Modern Tiles_2
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 323
+        width: 7
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Modern Tiles_3
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 323
+        width: 7
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Modern Tiles_4
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 323
+        width: 7
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Modern Tiles_5
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 323
+        width: 7
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Modern Tiles_6
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 323
+        width: 7
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Modern Tiles_7
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 323
+        width: 7
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Modern Tiles_8
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 323
+        width: 7
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Modern Tiles_9
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 169
+        width: 25
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Modern Tiles_10
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Modern Tiles_11
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 160
+        width: 25
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Modern Tiles_12
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 150
+        width: 25
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Modern Tiles_13
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 140
+        width: 25
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Modern Tiles_14
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 131
+        width: 25
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Modern Tiles_15
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 121
+        width: 25
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Modern Tiles_16
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 111
+        width: 25
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Modern Tiles_18
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 26
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Modern Tiles_19
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 435
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Modern Tiles_20
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 352
+        width: 82
+        height: 139
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Modern Tiles_21
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 485
+        width: 66
+        height: 3
+      alignment: 9
+      pivot: {x: .573851585, y: -13.8904829}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Modern Tiles_21
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 331
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Modern Tiles_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 408
+        width: 160
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Modern Tiles_22
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 410
+        width: 163
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Modern Tiles_23
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 44
+        width: 158
+        height: 150
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Modern Tiles_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 160
+        height: 130
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Modern Tiles_25
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 255
+        width: 157
+        height: 65
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Modern Tiles_26
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 254
+        width: 158
+        height: 63
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Modern Tiles_27
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 49
+        width: 65
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
