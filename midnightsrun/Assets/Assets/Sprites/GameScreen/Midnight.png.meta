@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 0a8c4bfccbe1d9f41abf6663a2020a75
+guid: be340e84b5bf0de4cb79c3aba8089715
 TextureImporter:
   fileIDToRecycleName:
     21300000: MidnightWalk_0
@@ -57,7 +57,7 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: .25
     normalMapFilter: 0
-  isReadable: 1
+  isReadable: 0
   grayScaleToAlpha: 0
   generateCubemap: 0
   seamlessCubemap: 0
@@ -78,7 +78,7 @@ TextureImporter:
   spritePivot: {x: .5, y: .5}
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spritePixelsToUnits: 550
-  alphaIsTransparency: 0
+  alphaIsTransparency: 1
   textureType: 8
   buildTargetSettings:
   - buildTarget: Standalone

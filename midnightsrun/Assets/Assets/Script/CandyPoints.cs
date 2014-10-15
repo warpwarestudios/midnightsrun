@@ -5,14 +5,16 @@ public class CandyPoints : MonoBehaviour {
 
 	public UILabel counterlabel;
 	private int store;
-
-	void OnCollisionEnter(Collision collision) 
+	void Start()
+	{
+		counterlabel = GameObject.Find("CandyCounter").GetComponent<UILabel> ();
+	}
+	void OnCollisionEnter2D(Collision2D collision) 
 	{
 		Debug.Log("Collision Detected"); //test
 
-		counterlabel = GameObject.Find ("CandyCounter").GetComponent<UILabel> ();
 
-		if (collision.gameObject.name == "Midnight") 
+		if (collision.gameObject.tag == "Player") 
 		{
 			Destroy (gameObject);
 			store = int.Parse(counterlabel.text);
