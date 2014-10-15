@@ -1,0 +1,1525 @@
+fileFormatVersion: 2
+guid: fabf1cdeeb362bb4b803b44eb07f6a70
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: LadyInWhite_0
+    21300002: LadyInWhite_1
+    21300004: LadyInWhite_2
+    21300006: LadyInWhite_3
+    21300008: LadyInWhite_4
+    21300010: LadyInWhite_5
+    21300012: LadyInWhite_6
+    21300014: LadyInWhite_7
+    21300016: LadyInWhite_8
+    21300018: LadyInWhite_9
+    21300020: LadyInWhite_10
+    21300022: LadyInWhite_11
+    21300024: LadyInWhite_12
+    21300026: LadyInWhite_13
+    21300028: LadyInWhite_14
+    21300030: LadyInWhite_15
+    21300032: LadyInWhite_16
+    21300034: LadyInWhite_17
+    21300036: LadyInWhite_18
+    21300038: LadyInWhite_19
+    21300040: LadyInWhite_20
+    21300042: LadyInWhite_21
+    21300044: LadyInWhite_22
+    21300046: LadyInWhite_23
+    21300048: LadyInWhite_24
+    21300050: LadyInWhite_25
+    21300052: LadyInWhite_26
+    21300054: LadyInWhite_27
+    21300056: LadyInWhite_28
+    21300058: LadyInWhite_29
+    21300060: LadyInWhite_30
+    21300062: LadyInWhite_31
+    21300064: LadyInWhite_32
+    21300066: LadyInWhite_33
+    21300068: LadyInWhite_34
+    21300070: LadyInWhite_35
+    21300072: LadyInWhite_36
+    21300074: LadyInWhite_37
+    21300076: LadyInWhite_38
+    21300078: LadyInWhite_39
+    21300080: LadyInWhite_40
+    21300082: LadyInWhite_41
+    21300084: LadyInWhite_42
+    21300086: LadyInWhite_43
+    21300088: LadyInWhite_44
+    21300090: LadyInWhite_45
+    21300092: LadyInWhite_46
+    21300094: LadyInWhite_47
+    21300096: LadyInWhite_48
+    21300098: LadyInWhite_49
+    21300100: LadyInWhite_50
+    21300102: LadyInWhite_51
+    21300104: LadyInWhite_52
+    21300106: LadyInWhite_53
+    21300108: LadyInWhite_54
+    21300110: LadyInWhite_55
+    21300112: LadyInWhite_56
+    21300114: LadyInWhite_57
+    21300116: LadyInWhite_58
+    21300118: LadyInWhite_59
+    21300120: LadyInWhite_60
+    21300122: LadyInWhite_61
+    21300124: LadyInWhite_62
+    21300126: LadyInWhite_63
+    21300128: LadyInWhite_64
+    21300130: LadyInWhite_65
+    21300132: LadyInWhite_66
+    21300134: LadyInWhite_67
+    21300136: LadyInWhite_68
+    21300138: LadyInWhite_69
+    21300140: LadyInWhite_70
+    21300142: LadyInWhite_71
+    21300144: LadyInWhite_72
+    21300146: LadyInWhite_73
+    21300148: LadyInWhite_74
+    21300150: LadyInWhite_75
+    21300152: LadyInWhite_76
+    21300154: LadyInWhite_77
+    21300156: LadyInWhite_78
+    21300158: LadyInWhite_79
+    21300160: LadyInWhite_80
+    21300162: LadyInWhite_81
+    21300164: LadyInWhite_82
+    21300166: LadyInWhite_83
+    21300168: LadyInWhite_84
+    21300170: LadyInWhite_85
+    21300172: LadyInWhite_86
+    21300174: LadyInWhite_87
+    21300176: LadyInWhite_88
+    21300178: LadyInWhite_89
+    21300180: LadyInWhite_90
+    21300182: LadyInWhite_91
+    21300184: LadyInWhite_92
+    21300186: LadyInWhite_93
+    21300188: LadyInWhite_94
+    21300190: LadyInWhite_95
+    21300192: LadyInWhite_96
+    21300194: LadyInWhite_97
+    21300196: LadyInWhite_98
+    21300198: LadyInWhite_99
+    21300200: LadyInWhite_100
+    21300202: LadyInWhite_101
+    21300204: LadyInWhite_102
+    21300206: LadyInWhite_103
+    21300208: LadyInWhite_104
+    21300210: LadyInWhite_105
+    21300212: LadyInWhite_106
+    21300214: LadyInWhite_107
+    21300216: LadyInWhite_108
+    21300218: LadyInWhite_109
+    21300220: LadyInWhite_110
+    21300222: LadyInWhite_111
+    21300224: LadyInWhite_112
+    21300226: LadyInWhite_113
+    21300228: LadyInWhite_114
+    21300230: LadyInWhite_115
+    21300232: LadyInWhite_116
+    21300234: LadyInWhite_117
+    21300236: LadyInWhite_118
+    21300238: LadyInWhite_119
+    21300240: LadyInWhite_120
+    21300242: LadyInWhite_121
+    21300244: LadyInWhite_122
+    21300246: LadyInWhite_123
+    21300248: LadyInWhite_124
+    21300250: LadyInWhite_125
+    21300252: LadyInWhite_126
+    21300254: LadyInWhite_127
+    21300256: LadyInWhite_128
+    21300258: LadyInWhite_129
+    21300260: LadyInWhite_130
+    21300262: LadyInWhite_131
+    21300264: LadyInWhite_132
+    21300266: LadyInWhite_133
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -3
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: LadyInWhite_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 672
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LadyInWhite_1
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 672
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LadyInWhite_2
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 672
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LadyInWhite_3
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 672
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LadyInWhite_4
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 672
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LadyInWhite_5
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 672
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LadyInWhite_6
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 672
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LadyInWhite_7
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 672
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LadyInWhite_8
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 672
+        width: 47
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LadyInWhite_9
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 624
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LadyInWhite_10
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 624
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LadyInWhite_11
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 624
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LadyInWhite_12
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 624
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LadyInWhite_13
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 624
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LadyInWhite_14
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 624
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LadyInWhite_15
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 624
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LadyInWhite_16
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 624
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LadyInWhite_17
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 624
+        width: 47
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LadyInWhite_18
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 576
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LadyInWhite_19
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 576
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LadyInWhite_20
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 576
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LadyInWhite_21
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 576
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LadyInWhite_22
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 576
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LadyInWhite_23
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 576
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LadyInWhite_24
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 576
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LadyInWhite_25
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 576
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LadyInWhite_26
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 576
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LadyInWhite_27
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 528
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LadyInWhite_28
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 528
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LadyInWhite_29
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 528
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LadyInWhite_30
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 528
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LadyInWhite_31
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 528
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LadyInWhite_32
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 528
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LadyInWhite_33
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 528
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LadyInWhite_34
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 528
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LadyInWhite_35
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 528
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LadyInWhite_36
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 480
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LadyInWhite_37
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 480
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LadyInWhite_38
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 480
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LadyInWhite_39
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 480
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LadyInWhite_40
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 480
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LadyInWhite_41
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 480
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LadyInWhite_42
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 480
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LadyInWhite_43
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 480
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LadyInWhite_44
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 480
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LadyInWhite_45
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 432
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LadyInWhite_46
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 432
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LadyInWhite_47
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 432
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LadyInWhite_48
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 432
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LadyInWhite_49
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 432
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LadyInWhite_50
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 432
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LadyInWhite_51
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 432
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LadyInWhite_52
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 432
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LadyInWhite_53
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 432
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LadyInWhite_54
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 384
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LadyInWhite_55
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 384
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LadyInWhite_56
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 384
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LadyInWhite_57
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 384
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LadyInWhite_58
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 384
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LadyInWhite_59
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 384
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LadyInWhite_60
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 384
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LadyInWhite_61
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 384
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LadyInWhite_62
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 384
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LadyInWhite_63
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 336
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LadyInWhite_64
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 336
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LadyInWhite_65
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 336
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LadyInWhite_66
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 336
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LadyInWhite_67
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 336
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LadyInWhite_68
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 336
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LadyInWhite_69
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 336
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LadyInWhite_70
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 336
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LadyInWhite_71
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 336
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LadyInWhite_72
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 288
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LadyInWhite_73
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 288
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LadyInWhite_74
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 288
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LadyInWhite_75
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 288
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LadyInWhite_76
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 288
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LadyInWhite_77
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 288
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LadyInWhite_78
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 288
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LadyInWhite_79
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 288
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LadyInWhite_80
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 288
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LadyInWhite_81
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 240
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LadyInWhite_82
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 240
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LadyInWhite_83
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 240
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LadyInWhite_84
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 240
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LadyInWhite_85
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 240
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LadyInWhite_86
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 240
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LadyInWhite_87
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 240
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LadyInWhite_88
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 240
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LadyInWhite_89
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 240
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LadyInWhite_90
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 192
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LadyInWhite_91
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 192
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LadyInWhite_92
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 192
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LadyInWhite_93
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 192
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LadyInWhite_94
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 192
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LadyInWhite_95
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 192
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LadyInWhite_96
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 192
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LadyInWhite_97
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 192
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LadyInWhite_98
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 192
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LadyInWhite_99
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 144
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LadyInWhite_100
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 144
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LadyInWhite_101
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 144
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LadyInWhite_102
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 144
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LadyInWhite_103
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 144
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LadyInWhite_104
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 144
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LadyInWhite_105
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 144
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LadyInWhite_106
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 144
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LadyInWhite_107
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 144
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LadyInWhite_108
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 96
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LadyInWhite_109
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 96
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LadyInWhite_110
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 96
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LadyInWhite_111
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 96
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LadyInWhite_112
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 96
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LadyInWhite_113
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 96
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LadyInWhite_114
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 96
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LadyInWhite_115
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 96
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LadyInWhite_116
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 96
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LadyInWhite_117
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 48
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LadyInWhite_118
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 48
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LadyInWhite_119
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 48
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LadyInWhite_120
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 48
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LadyInWhite_121
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 48
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LadyInWhite_122
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 48
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LadyInWhite_123
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 48
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LadyInWhite_124
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 48
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LadyInWhite_125
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 48
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LadyInWhite_126
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 0
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LadyInWhite_127
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 0
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LadyInWhite_128
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 0
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LadyInWhite_129
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 0
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LadyInWhite_130
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 0
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LadyInWhite_131
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 0
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LadyInWhite_132
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LadyInWhite_133
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 0
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
