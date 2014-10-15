@@ -21,8 +21,9 @@ public class FindPlayer : MonoBehaviour {
 
 		if (triggered && Input.GetKey(KeyCode.E)) {
 			SpriteRenderer playerSprite = player.GetComponent<SpriteRenderer> ();
+			player.rigidbody2D.isKinematic = true;
 			playerSprite.sortingLayerName = "Default";
-			player.rigidbody2D.IsSleeping();			
+			player.collider2D.enabled = false;		
 			blinkLeftSprite.sortingLayerName = "Foreground";
 			blinkRightSprite.sortingLayerName = "Foreground";
 		}
@@ -30,7 +31,8 @@ public class FindPlayer : MonoBehaviour {
 		{
 			SpriteRenderer playerSprite = player.GetComponent<SpriteRenderer> ();
 			playerSprite.sortingLayerName = "Foreground";
-			player.rigidbody2D.IsAwake();
+			player.rigidbody2D.isKinematic = false;
+			player.collider2D.enabled = true;		
 			blinkLeftSprite.sortingLayerName = "Default";
 			blinkRightSprite.sortingLayerName = "Default";		
 		}
@@ -38,17 +40,18 @@ public class FindPlayer : MonoBehaviour {
 
 void OnTriggerEnter2D(Collider2D obj)
 	{
-		triggered = true;
 		if(obj.gameObject.tag == "Player")
 		{
+			triggered = true;
 			player = obj.gameObject.transform;
 		}
 	}
-	void OnTriggerExit2D(Collider2D obj)
+
+void OnTriggerExit2D(Collider2D obj)
 	{
-		triggered = false;
 		if(obj.gameObject.tag == "Player")
 		{
+			triggered = false;
 			player = null;
 		}
 	}
