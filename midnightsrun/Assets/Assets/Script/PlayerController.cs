@@ -16,6 +16,7 @@ public class PlayerController: MonoBehaviour {
 	float groundRadius = 0.2f;
 	public LayerMask whatIsGround;
 	public float jumpForce = 700f;
+	public float takenDamage = 0.2f;
 
 	
 	// Use this for initialization
@@ -81,5 +82,26 @@ public class PlayerController: MonoBehaviour {
 		Vector2 scale = transform.localScale;
 		scale.x *= -1;
 		transform.localScale = scale;
+	}
+
+	public IEnumerator TakenDamage()
+	{
+		renderer.enabled = false;
+		yield return new WaitForSeconds(takenDamage);
+		renderer.enabled = true;
+		yield return new WaitForSeconds(takenDamage);
+		renderer.enabled = false;
+		yield return new WaitForSeconds(takenDamage);
+		renderer.enabled = true;
+		yield return new WaitForSeconds(takenDamage);
+		renderer.enabled = false;
+		yield return new WaitForSeconds(takenDamage);
+		renderer.enabled = true;
+		yield return new WaitForSeconds(takenDamage);
+		renderer.enabled = false;
+		yield return new WaitForSeconds(takenDamage);
+		renderer.enabled = true;
+		yield return new WaitForSeconds(takenDamage);
+
 	}
 }

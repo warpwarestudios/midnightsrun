@@ -21,6 +21,7 @@ public class DamagePlayer : MonoBehaviour {
 		if(col.gameObject.tag == "Player")
 		{
 			healthBarScript.SendMessage("TakeDamage", damage, SendMessageOptions.DontRequireReceiver);
+			healthBarScript.playerController.SendMessage("TakenDamage", SendMessageOptions.DontRequireReceiver);
 		}
 	}
 }

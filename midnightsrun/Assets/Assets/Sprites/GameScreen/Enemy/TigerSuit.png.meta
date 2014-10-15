@@ -1,0 +1,1917 @@
+fileFormatVersion: 2
+guid: 8c3168193059c6644b56e0e7d137ed83
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: TigerSuit_0
+    21300002: TigerSuit_1
+    21300004: TigerSuit_2
+    21300006: TigerSuit_3
+    21300008: TigerSuit_4
+    21300010: TigerSuit_5
+    21300012: TigerSuit_6
+    21300014: TigerSuit_7
+    21300016: TigerSuit_8
+    21300018: TigerSuit_9
+    21300020: TigerSuit_10
+    21300022: TigerSuit_11
+    21300024: TigerSuit_12
+    21300026: TigerSuit_13
+    21300028: TigerSuit_14
+    21300030: TigerSuit_15
+    21300032: TigerSuit_16
+    21300034: TigerSuit_17
+    21300036: TigerSuit_18
+    21300038: TigerSuit_19
+    21300040: TigerSuit_20
+    21300042: TigerSuit_21
+    21300044: TigerSuit_22
+    21300046: TigerSuit_23
+    21300048: TigerSuit_24
+    21300050: TigerSuit_25
+    21300052: TigerSuit_26
+    21300054: TigerSuit_27
+    21300056: TigerSuit_28
+    21300058: TigerSuit_29
+    21300060: TigerSuit_30
+    21300062: TigerSuit_31
+    21300064: TigerSuit_32
+    21300066: TigerSuit_33
+    21300068: TigerSuit_34
+    21300070: TigerSuit_35
+    21300072: TigerSuit_36
+    21300074: TigerSuit_37
+    21300076: TigerSuit_38
+    21300078: TigerSuit_39
+    21300080: TigerSuit_40
+    21300082: TigerSuit_41
+    21300084: TigerSuit_42
+    21300086: TigerSuit_43
+    21300088: TigerSuit_44
+    21300090: TigerSuit_45
+    21300092: TigerSuit_46
+    21300094: TigerSuit_47
+    21300096: TigerSuit_48
+    21300098: TigerSuit_49
+    21300100: TigerSuit_50
+    21300102: TigerSuit_51
+    21300104: TigerSuit_52
+    21300106: TigerSuit_53
+    21300108: TigerSuit_54
+    21300110: TigerSuit_55
+    21300112: TigerSuit_56
+    21300114: TigerSuit_57
+    21300116: TigerSuit_58
+    21300118: TigerSuit_59
+    21300120: TigerSuit_60
+    21300122: TigerSuit_61
+    21300124: TigerSuit_62
+    21300126: TigerSuit_63
+    21300128: TigerSuit_64
+    21300130: TigerSuit_65
+    21300132: TigerSuit_66
+    21300134: TigerSuit_67
+    21300136: TigerSuit_68
+    21300138: TigerSuit_69
+    21300140: TigerSuit_70
+    21300142: TigerSuit_71
+    21300144: TigerSuit_72
+    21300146: TigerSuit_73
+    21300148: TigerSuit_74
+    21300150: TigerSuit_75
+    21300152: TigerSuit_76
+    21300154: TigerSuit_77
+    21300156: TigerSuit_78
+    21300158: TigerSuit_79
+    21300160: TigerSuit_80
+    21300162: TigerSuit_81
+    21300164: TigerSuit_82
+    21300166: TigerSuit_83
+    21300168: TigerSuit_84
+    21300170: TigerSuit_85
+    21300172: TigerSuit_86
+    21300174: TigerSuit_87
+    21300176: TigerSuit_88
+    21300178: TigerSuit_89
+    21300180: TigerSuit_90
+    21300182: TigerSuit_91
+    21300184: TigerSuit_92
+    21300186: TigerSuit_93
+    21300188: TigerSuit_94
+    21300190: TigerSuit_95
+    21300192: TigerSuit_96
+    21300194: TigerSuit_97
+    21300196: TigerSuit_98
+    21300198: TigerSuit_99
+    21300200: TigerSuit_100
+    21300202: TigerSuit_101
+    21300204: TigerSuit_102
+    21300206: TigerSuit_103
+    21300208: TigerSuit_104
+    21300210: TigerSuit_105
+    21300212: TigerSuit_106
+    21300214: TigerSuit_107
+    21300216: TigerSuit_108
+    21300218: TigerSuit_109
+    21300220: TigerSuit_110
+    21300222: TigerSuit_111
+    21300224: TigerSuit_112
+    21300226: TigerSuit_113
+    21300228: TigerSuit_114
+    21300230: TigerSuit_115
+    21300232: TigerSuit_116
+    21300234: TigerSuit_117
+    21300236: TigerSuit_118
+    21300238: TigerSuit_119
+    21300240: TigerSuit_120
+    21300242: TigerSuit_121
+    21300244: TigerSuit_122
+    21300246: TigerSuit_123
+    21300248: TigerSuit_124
+    21300250: TigerSuit_125
+    21300252: TigerSuit_126
+    21300254: TigerSuit_127
+    21300256: TigerSuit_128
+    21300258: TigerSuit_129
+    21300260: TigerSuit_130
+    21300262: TigerSuit_131
+    21300264: TigerSuit_132
+    21300266: TigerSuit_133
+    21300268: TigerSuit_134
+    21300270: TigerSuit_135
+    21300272: TigerSuit_136
+    21300274: TigerSuit_137
+    21300276: TigerSuit_138
+    21300278: TigerSuit_139
+    21300280: TigerSuit_140
+    21300282: TigerSuit_141
+    21300284: TigerSuit_142
+    21300286: TigerSuit_143
+    21300288: TigerSuit_144
+    21300290: TigerSuit_145
+    21300292: TigerSuit_146
+    21300294: TigerSuit_147
+    21300296: TigerSuit_148
+    21300298: TigerSuit_149
+    21300300: TigerSuit_150
+    21300302: TigerSuit_151
+    21300304: TigerSuit_152
+    21300306: TigerSuit_153
+    21300308: TigerSuit_154
+    21300310: TigerSuit_155
+    21300312: TigerSuit_156
+    21300314: TigerSuit_157
+    21300316: TigerSuit_158
+    21300318: TigerSuit_159
+    21300320: TigerSuit_160
+    21300322: TigerSuit_161
+    21300324: TigerSuit_162
+    21300326: TigerSuit_163
+    21300328: TigerSuit_164
+    21300330: TigerSuit_165
+    21300332: TigerSuit_166
+    21300334: TigerSuit_167
+    21300336: TigerSuit_168
+    21300338: TigerSuit_169
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: TigerSuit_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 720
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 720
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_2
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 720
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_3
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 720
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 672
+        width: 48
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_5
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 720
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_6
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 720
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_7
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 720
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_8
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 720
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_9
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 720
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_10
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 720
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_11
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 720
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_12
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 672
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_13
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 672
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_14
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 672
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_15
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 672
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_16
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 672
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_17
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 672
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_18
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 672
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_19
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 672
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_20
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 672
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_21
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 672
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_22
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 672
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_23
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 628
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_24
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 629
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_25
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 628
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_26
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 624
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_27
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 624
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_28
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 624
+        width: 46
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_29
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 624
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_30
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 624
+        width: 46
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_31
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 624
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_32
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 624
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_33
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 624
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_34
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 624
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_35
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 580
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_36
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 581
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_37
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 580
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_38
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 576
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_39
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 48
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_40
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 576
+        width: 46
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_41
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 576
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_42
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 576
+        width: 46
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_43
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 576
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_44
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 576
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_45
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 576
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_46
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 576
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_47
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 528
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_48
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 528
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_49
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 528
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_50
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 528
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_51
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 528
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_52
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 528
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_53
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 528
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_54
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 528
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_55
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 528
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_56
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 528
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_57
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 528
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_58
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 480
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_59
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 480
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_60
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 480
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_61
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 480
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_62
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 480
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_63
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 480
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_64
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 480
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_65
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 480
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_66
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 480
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_67
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 384
+        width: 48
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_68
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 432
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_69
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 432
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_70
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 432
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_71
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 432
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_72
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 432
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_73
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 432
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_74
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 432
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_75
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 432
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_76
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 432
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_77
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 432
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_78
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 384
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_79
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 384
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_80
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 384
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_81
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 384
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_82
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 384
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_83
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 384
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_84
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 384
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_85
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 384
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_86
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 384
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_87
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 384
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_88
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 336
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_89
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 336
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_90
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 336
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_91
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 336
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_92
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 336
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_93
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 336
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_94
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 336
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_95
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 336
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_96
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 336
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_97
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 336
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_98
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 336
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_99
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 336
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_100
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 288
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_101
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 288
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_102
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 288
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_103
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 288
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_104
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 288
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_105
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 288
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_106
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 288
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_107
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 288
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_108
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 288
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_109
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 288
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_110
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 288
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_111
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 288
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_112
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 240
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_113
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 240
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_114
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 240
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_115
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 240
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_116
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 240
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_117
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 240
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_118
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 240
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_119
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 240
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_120
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 240
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_121
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 240
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_122
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 240
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_123
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 240
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_124
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 192
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_125
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 192
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_126
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 192
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_127
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 192
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_128
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 192
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_129
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 192
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_130
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 192
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_131
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 192
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_132
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 192
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_133
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 192
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_134
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 192
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_135
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 192
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_136
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 144
+        width: 43
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_137
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 48
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_138
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 48
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_139
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 144
+        width: 48
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_140
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 144
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_141
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 146
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_142
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 144
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_143
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 146
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_144
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 144
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_145
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 144
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_146
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 144
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_147
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 96
+        width: 44
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_148
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 48
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_149
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 48
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_150
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 48
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_151
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 96
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_152
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 96
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_153
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 96
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_154
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 48
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_155
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 96
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_156
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 96
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_157
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 96
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_158
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 48
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_159
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 48
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_160
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 48
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_161
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 48
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_162
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 48
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_163
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 48
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_164
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 0
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_165
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 0
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_166
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 0
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_167
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_168
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 0
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TigerSuit_169
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 0
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

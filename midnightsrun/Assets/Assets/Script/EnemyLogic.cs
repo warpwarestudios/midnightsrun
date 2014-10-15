@@ -7,22 +7,20 @@ public class EnemyLogic : MonoBehaviour {
 	private bool spotted = false;
 	public GameObject exclamation;
 	public GameObject player;
-	private float enemyPosX;
 	public bool staticPatrol;
 	private bool facingRight;
 	private float playerPosX;
-	public float moveSpeed = 2; 
+	public float moveSpeed = 2f; 
 	public float chaseSpeed = 3.5f;
 	private float rand;
 	private float timer;
-
-
+	public float startStep = 3f;
+	public float endStep = 3f;
 
 
 	void Start ()
 	{
-		rand = Random.Range (2f, 6f);
-		enemyPosX = this.transform.position.x;
+		rand = Random.Range (startStep, endStep);
 	}
 
 	// Update is called once per frame
@@ -47,7 +45,7 @@ public class EnemyLogic : MonoBehaviour {
 			if (timer >= rand) 
 			{
 				Flip ();
-				rand = Random.Range (2f, 6f);
+				rand = Random.Range (startStep, endStep);
 				timer = 0f;
 			}
 		}
