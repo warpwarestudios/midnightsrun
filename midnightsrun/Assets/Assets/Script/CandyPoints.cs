@@ -9,11 +9,8 @@ public class CandyPoints : MonoBehaviour {
 	{
 		counterlabel = GameObject.Find("CandyCounter").GetComponent<UILabel> ();
 	}
-	void OnCollisionEnter2D(Collision2D collision) 
+	void OnTriggerEnter2D(Collider2D collision) 
 	{
-		Debug.Log("Collision Detected"); //test
-
-
 		if (collision.gameObject.tag == "Player") 
 		{
 			Destroy (gameObject);
